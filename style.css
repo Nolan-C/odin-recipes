@@ -1,0 +1,38 @@
+.intro {
+    width: 400px;
+    height: 400px;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+    text-align: center; 
+}
+
+.listing {
+    text-align: left;
+    display: inline-block
+}
+
+.lasagna {
+    width: 600px;
+    height: 400px; 
+    outline-color: black;
+    outline-style: outset;
+    outline-width: 5px;
+}
+
+.drank {
+    width: 250px;
+    height: 250px;
+    outline-color: black;
+    outline-style: outset;
+    outline-width: 5px;
+}
+
+.bread {
+    width: 400px;
+    height: 600px;
+    outline-color: black;
+    outline-style: outset;
+    outline-width: 5px;
+}
